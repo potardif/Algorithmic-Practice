@@ -22,6 +22,16 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 # Solved problems
 
+## 2020
+
+### Qualification Round
+
+1. [x] Vestigium
+2. [ ] Nesting Depth
+3. [ ] Parenting Partnering Returns
+4. [ ] ESAb ATAd
+5. [ ] Indicium
+
 ## 2021
 
 ### Qualification Round
