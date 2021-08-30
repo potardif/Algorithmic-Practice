@@ -19,3 +19,47 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
+
+# Solved problems
+
+## 2021
+
+### Qualification Round
+
+1. [x] Reversort
+2. [x] Moons and Umbrellas
+3. [x] Reversort Engineering
+4. [x] Median Sort
+5. [x] Cheating Detection
+
+### Round 1A
+
+1. [x] Append Sort
+2. [x] Prime Time
+3. [ ] Hacked Exam
+
+### Round 1B
+
+1. [x] Broken Clock
+2. [x] Subtransmutation
+3. [x] Digit Blocks
+
+### Round 1C
+
+1. [x] Closest Pick
+2. [x] Roaring Years
+3. [ ] Double or NOTing
+
+### Round 2
+
+1. [x] Minimum Sort
+2. [x] Matrygons
+3. [x] Hidden Pancakes
+4. [x] Retiling
+
+### Round 3
+
+1. [x] Build-A-Pair
+2. [ ] Square Free
+3. [ ] Fence Design
+4. [ ] Binary Search Game
