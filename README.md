@@ -61,3 +61,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 # LeetCode
 
 - [x] 1. Two Sum
+- [x] 2. Add Two Numbers
