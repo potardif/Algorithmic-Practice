@@ -62,5 +62,6 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 - [x] 1. Two Sum
 - [x] 2. Add Two Numbers
+- [x] 7. Reverse Integer
 - [x] 14. Longest Common Prefix
 - [x] 892. Surface Area of 3D Shapes
