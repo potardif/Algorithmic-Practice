@@ -65,4 +65,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [x] 7. Reverse Integer
 - [x] 8. String to Integer (atoi)
 - [x] 14. Longest Common Prefix
+- [x] 40. Combination Sum II
 - [x] 892. Surface Area of 3D Shapes
