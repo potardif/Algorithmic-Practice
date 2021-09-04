@@ -68,3 +68,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [x] 40. Combination Sum II
 - [x] 714. Best Time to Buy and Sell Stock with Transaction Fee
 - [x] 892. Surface Area of 3D Shapes
+- [x] 946. Validate Stack Sequences
