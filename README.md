@@ -70,6 +70,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [x] 97. Interleaving String
 - [x] 166. Fraction to Recurring Decimal
 - [x] 714. Best Time to Buy and Sell Stock with Transaction Fee
+- [x] 756. Pyramid Transition Matrix
 - [x] 892. Surface Area of 3D Shapes
 - [x] 910. Smallest Range II
 - [x] 946. Validate Stack Sequences
