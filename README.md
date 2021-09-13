@@ -66,6 +66,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [x] 8. String to Integer (atoi)
 - [x] 10. Regular Expression Matching
 - [x] 14. Longest Common Prefix
+- [x] 23. Merge k Sorted Lists
 - [x] 24. Swap Nodes in Pairs
 - [x] 40. Combination Sum II
 - [x] 97. Interleaving String
