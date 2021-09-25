@@ -71,6 +71,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [x] 25. Reverse Nodes in k-Group
 - [x] 32. Longest Valid Parentheses
 - [x] 40. Combination Sum II
+- [x] 42. Trapping Rain Water
 - [x] 97. Interleaving String
 - [x] 166. Fraction to Recurring Decimal
 - [x] 714. Best Time to Buy and Sell Stock with Transaction Fee
