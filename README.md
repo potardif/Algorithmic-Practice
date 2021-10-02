@@ -75,6 +75,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [x] 76. Minimum Window Substring
 - [x] 97. Interleaving String
 - [x] 135. Candy
+- [x] 149. Max Points on a Line
 - [x] 166. Fraction to Recurring Decimal
 - [x] 714. Best Time to Buy and Sell Stock with Transaction Fee
 - [x] 756. Pyramid Transition Matrix
