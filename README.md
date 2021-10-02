@@ -77,6 +77,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [x] 135. Candy
 - [x] 149. Max Points on a Line
 - [x] 166. Fraction to Recurring Decimal
+- [x] 185. Department Top Three Salaries
 - [x] 714. Best Time to Buy and Sell Stock with Transaction Fee
 - [x] 756. Pyramid Transition Matrix
 - [x] 892. Surface Area of 3D Shapes
