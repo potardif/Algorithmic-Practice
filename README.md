@@ -77,6 +77,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [x] 135. Candy
 - [x] 149. Max Points on a Line
 - [x] 166. Fraction to Recurring Decimal
+- [x] 176. Second Highest Salary
 - [x] 185. Department Top Three Salaries
 - [x] 214. Shortest Palindrome
 - [x] 503. Next Greater Element II
