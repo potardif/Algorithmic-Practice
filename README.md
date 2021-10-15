@@ -74,6 +74,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [x] 42. Trapping Rain Water
 - [x] 76. Minimum Window Substring
 - [x] 97. Interleaving String
+- [x] 131. Palindrome Partitioning
 - [x] 135. Candy
 - [x] 149. Max Points on a Line
 - [x] 166. Fraction to Recurring Decimal
