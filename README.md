@@ -87,4 +87,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [x] 756. Pyramid Transition Matrix
 - [x] 892. Surface Area of 3D Shapes
 - [x] 910. Smallest Range II
+- [x] 915. Partition Array into Disjoint Intervals
 - [x] 946. Validate Stack Sequences
