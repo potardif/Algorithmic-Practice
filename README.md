@@ -60,6 +60,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - 2022
 	- Qualification Round
 		1. [x] Punched Cards
+		2. [x] 3D Printing
 
 # LeetCode
 
