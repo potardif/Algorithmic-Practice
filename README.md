@@ -61,6 +61,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 	- Qualification Round
 		1. [x] Punched Cards
 		2. [x] 3D Printing
+		3. [x] d1000000
 
 # LeetCode
 
