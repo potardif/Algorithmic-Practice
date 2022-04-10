@@ -57,6 +57,9 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 		2. [ ] Square Free
 		3. [ ] Fence Design
 		4. [ ] Binary Search Game
+- 2022
+	- Qualification Round
+		1. [x] Punched Cards
 
 # LeetCode
 
