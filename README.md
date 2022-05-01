@@ -62,6 +62,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 		1. [x] Punched Cards
 		2. [x] 3D Printing
 		3. [x] d1000000
+		4. [x] Chain Reactions
 
 # LeetCode
 
