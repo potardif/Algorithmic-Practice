@@ -69,7 +69,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 		2. [ ] Equal Sum
 		3. [ ] Weightlifting
 	- Round 1B
-		1. [ ] Pancake Deque
+		1. [x] Pancake Deque
 		2. [ ] Controlled Inflation
 		3. [ ] ASeDatAb
 
