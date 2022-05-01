@@ -64,6 +64,14 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 		3. [x] d1000000
 		4. [x] Chain Reactions
 		5. [x] Twisty Little Passages
+	- Round 1A
+		1. [ ] Double or One Thing
+		2. [ ] Equal Sum
+		3. [ ] Weightlifting
+	- Round 1B
+		1. [ ] Pancake Deque
+		2. [ ] Controlled Inflation
+		3. [ ] ASeDatAb
 
 # LeetCode
 
