@@ -28,6 +28,11 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 		3. [ ] Parenting Partnering Returns
 		4. [ ] ESAb ATAd
 		5. [ ] Indicium
+	- Round 2
+		1. [ ] Incremental House of Pancakes
+		2. [ ] Security Update
+		3. [ ] Wormhole in One
+		4. [ ] Emacs++
 - 2021
 	- Qualification Round
 		1. [x] Reversort
