@@ -71,7 +71,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 	- Round 1B
 		1. [x] Pancake Deque
 		2. [x] Controlled Inflation
-		3. [ ] ASeDatAb
+		3. [x] ASeDatAb
 
 # LeetCode
 
