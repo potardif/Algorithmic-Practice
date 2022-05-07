@@ -65,7 +65,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 		4. [x] Chain Reactions
 		5. [x] Twisty Little Passages
 	- Round 1A
-		1. [ ] Double or One Thing
+		1. [x] Double or One Thing
 		2. [ ] Equal Sum
 		3. [ ] Weightlifting
 	- Round 1B
