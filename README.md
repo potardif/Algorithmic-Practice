@@ -30,7 +30,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 		5. [ ] Indicium
 	- Round 2
 		1. [x] Incremental House of Pancakes
-		2. [ ] Security Update
+		2. [x] Security Update
 		3. [ ] Wormhole in One
 		4. [ ] Emacs++
 - 2021
