@@ -3,7 +3,7 @@ This repository contains my solutions to various algorithmic problems.
 # License
 
 ```
-Copyright (C) 2021  Pierre Olivier Tardif <pierre.o.tardif+license@gmail.com>
+Copyright (C) 2021-2022  Pierre Olivier Tardif <pierre.o.tardif+license@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
